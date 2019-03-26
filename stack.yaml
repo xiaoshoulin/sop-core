@@ -1,0 +1,6 @@
+resolver: lts-12.9
+
+extra-package-dbs: []
+
+packages: 
+- .
