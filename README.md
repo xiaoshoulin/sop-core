@@ -1,3 +1,3 @@
 # sop-core
 
-# test
+# haskell lib
